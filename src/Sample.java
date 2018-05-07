@@ -3,7 +3,7 @@ public class Sample {
 
 	public static void main(String[] args) {
 
-System.out.println("Ghe Sonali Pedhe ghe.");
+System.out.println("Hello Sir Welcome to Jenkin.");
 	}
 
 }
